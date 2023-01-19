@@ -2,5 +2,8 @@
     "presets":[
         "@babel/preset-env",//compila todos los ecs
         "@babel/preset-react"
+    ],
+    "plugins":[
+        "@babel/plugin-transform-runtime"
     ]
 }

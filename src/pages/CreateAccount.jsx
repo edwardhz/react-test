@@ -1,5 +1,6 @@
 import React from 'react';
-import '../styles/CreateAccount.scss';
+import '@styles/CreateAccount.scss';
+import Header from '@components/Header';
 
 const CreateAccount = () => {
 	return (

@@ -7,7 +7,7 @@ nav {
   .menu {
     display: none;
   }
-  .logo {
+  .nav-logo {
     width: 100px;
   }
   .navbar-left ul,
@@ -45,6 +45,7 @@ nav {
   }
   .navbar-shopping-cart {
     position: relative;
+    cursor: pointer;
   }
   .navbar-shopping-cart div {
     width: 16px;
