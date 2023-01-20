@@ -1,7 +1,7 @@
 import React from 'react';
-import OrderItem from '@components/OrderItem';
-import '@styles/Orders.scss';
-import Header from '@components/Header';
+import OrderItem from 'components/OrderItem';
+import 'styles/Orders.scss';
+import Header from 'components/Header';
 
 const Orders = () => {
 	return (

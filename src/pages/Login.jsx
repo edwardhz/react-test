@@ -1,7 +1,7 @@
 import React, {useRef} from 'react';
-import '@styles/Login.scss';
-import Logo from '@logos/logo_yard_sale.svg'
-import Header from '@components/Header';
+import 'styles/Login.scss';
+import Logo from 'logos/logo_yard_sale.svg'
+import Header from 'components/Header';
 
 const Login = () => {
 

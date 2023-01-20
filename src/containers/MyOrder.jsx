@@ -1,8 +1,8 @@
 import React, {useContext} from 'react';
-import OrderItem from '@components/OrderItem';
-import '@styles/MyOrder.scss';
-import AppContext from '@context/AppContext';
-import arrow from "@icons/flechita.svg";
+import OrderItem from 'components/OrderItem';
+import 'styles/MyOrder.scss';
+import AppContext from 'context/AppContext';
+import arrow from "icons/flechita.svg";
 
 const MyOrder = () => {
 

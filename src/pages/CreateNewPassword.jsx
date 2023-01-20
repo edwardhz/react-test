@@ -1,8 +1,8 @@
 import React from 'react';
-import '@styles/CreateNewPassword.scss';
-import Header from '@components/Header';
+import 'styles/CreateNewPassword.scss';
+import Header from 'components/Header';
 
-import logo from "@logos/logo_yard_sale.svg";
+import logo from "logos/logo_yard_sale.svg";
 const NewPassword = () => {
 	return (
 		<div className="CreateNewPassword">

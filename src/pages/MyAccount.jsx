@@ -1,6 +1,6 @@
 import React from 'react';
-import '@styles/MyAccount.scss';
-import Header from '@components/Header';
+import 'styles/MyAccount.scss';
+import Header from 'components/Header';
 
 const MyAccount = () => {
 	return (

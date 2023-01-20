@@ -1,9 +1,9 @@
 import React from 'react'
-import '@styles/SentEmail.scss'
-import Header from '@components/Header';
+import 'styles/SentEmail.scss'
+import Header from 'components/Header';
 
-import logo from "@logos/logo_yard_sale.svg";
-import icon from "@icons/email.svg";
+import logo from "logos/logo_yard_sale.svg";
+import icon from "icons/email.svg";
 
 const SentEmail = () => {
   return (

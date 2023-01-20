@@ -1,12 +1,12 @@
 import React,{useState, useContext} from 'react'
-import '@styles/Header.scss'
+import 'styles/Header.scss'
 
-import menu from '@icons/icon_menu.svg';
-import logo from '@logos/logo_yard_sale.svg';
-import shoppingCart from '@icons/icon_shopping_cart.svg';
-import AppContext from '@context/AppContext';
-import Menu from '@components/Menu';
-import MyOrder from '@containers/myOrder';
+import menu from 'icons/icon_menu.svg';
+import logo from 'logos/logo_yard_sale.svg';
+import shoppingCart from 'icons/icon_shopping_cart.svg';
+import AppContext from 'context/AppContext';
+import Menu from 'components/Menu';
+import MyOrder from 'containers/myOrder';
 
 
 const Header = () => {
